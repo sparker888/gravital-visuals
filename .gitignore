@@ -58,6 +58,9 @@ typings/
 .cache/
 public
 
+# generated files
+public/rss/
+
 # Mac files
 .DS_Store
 
